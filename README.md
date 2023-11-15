@@ -6,9 +6,9 @@
 
 ![Artwork_Order](https://github.com/kinsy3015/Circuit_Design/assets/62363841/1650a55e-f2af-4b61-ba33-57e62be588ba)
 
-# Charge Pump
+# Charge Pump With PWM
+![image](https://github.com/kinsy3015/Circuit_Design/assets/62363841/8d548d9b-6e11-45e9-9b5b-ca1ca4eb80d4)
 
-![image](https://github.com/kinsy3015/Circuit_Design/assets/62363841/76401f4a-f50b-4b99-81ef-bcaeac11b096)
 
 
 # Oscillator Debugging 
