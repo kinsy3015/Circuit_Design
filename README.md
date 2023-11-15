@@ -17,3 +17,11 @@
 
 # Power PCB Design
 ![image](https://github.com/kinsy3015/Circuit_Design/assets/62363841/4e2b81e7-fac5-4c2f-9eb0-f1f81f86ea50)
+
+
+# ADC Design
+![image](https://github.com/kinsy3015/Circuit_Design/assets/62363841/e3f48127-8b12-4abd-944d-a2bd6c9da0cb)
+
+
+# DAC Design
+![image](https://github.com/kinsy3015/Circuit_Design/assets/62363841/c30bc560-375e-437e-be9f-e02d0a5e48a6)
