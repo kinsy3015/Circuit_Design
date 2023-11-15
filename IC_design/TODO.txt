@@ -1,0 +1,9 @@
+2022.4.30 => start design class => using slack classroom service
+
+
+
+==> Sequenctial Logic, Digital Logic, Digital Circuit Design, Semiconductor make process Base
+
+
+
+따라서, 최소한의 전공지식이 필요한데, 전자회로( 심화전공 : 아날로그집적회로설계 ), 디지털논리회로( 심화전공 : 디지털논리회로설계 ), 물리전자, 반도체소자, 공정 등의 지식이 필요합니다
