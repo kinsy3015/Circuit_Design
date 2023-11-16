@@ -21,6 +21,10 @@
 ![image](https://github.com/kinsy3015/Circuit_Design/assets/62363841/c30bc560-375e-437e-be9f-e02d0a5e48a6)
 
 
+# Buck Switching With PWM
+![image](https://github.com/kinsy3015/Circuit_Design/assets/62363841/b22ee342-9177-4944-96a9-3888625b643f)
+
+
 # Artwork PCB
 
 ![Artwork_Order2](https://github.com/kinsy3015/Circuit_Design/assets/62363841/6d313e95-eba6-4ae9-9350-d1c38b244afd)
