@@ -32,3 +32,7 @@
 
 ![Artwork_Order](https://github.com/kinsy3015/Circuit_Design/assets/62363841/1650a55e-f2af-4b61-ba33-57e62be588ba)
 
+![image](https://github.com/kinsy3015/Circuit_Design/assets/62363841/f2d2c4b2-0f8d-4185-87b7-18cc36f87710)
+
+![image](https://github.com/kinsy3015/Circuit_Design/assets/62363841/b9b73058-e91a-4eb4-8fe7-7b956fb5701c)
+
