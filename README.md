@@ -28,15 +28,13 @@
 
 # Artwork PCB
 
-![KakaoTalk_20240411_205027087](https://github.com/kinsy3015/Circuit_Design/assets/62363841/ae559098-29a1-4224-ae93-d7d3b53b4df0)
-
-![KakaoTalk_20240411_205027087_01](https://github.com/kinsy3015/Circuit_Design/assets/62363841/7790c1c4-44eb-48e1-a5f0-8e565d73ec49)
-
 
 ![image](https://github.com/kinsy3015/Circuit_Design/assets/62363841/f2d2c4b2-0f8d-4185-87b7-18cc36f87710)
 
 ![image](https://github.com/kinsy3015/Circuit_Design/assets/62363841/b9b73058-e91a-4eb4-8fe7-7b956fb5701c)
 
-![KakaoTalk_20240411_204748339](https://github.com/kinsy3015/Circuit_Design/assets/62363841/75c6052e-f011-4e54-80bb-c6b766b77810)
+![1](https://github.com/kinsy3015/Circuit_Design/assets/62363841/9a3bde8e-0983-452f-bf54-2e6a78145036)
 
-![KakaoTalk_20240411_204748339_01](https://github.com/kinsy3015/Circuit_Design/assets/62363841/aac81213-43ec-4836-b14b-69b25eb2d8b8)
+![2](https://github.com/kinsy3015/Circuit_Design/assets/62363841/56487584-d6c3-4019-8e65-64da38dae2c6)
+![3](https://github.com/kinsy3015/Circuit_Design/assets/62363841/0f0838de-81e2-4c2a-9965-f6e8f4718386)
+![4](https://github.com/kinsy3015/Circuit_Design/assets/62363841/45d686a3-6ef8-477c-85eb-b58533e9d71b)
