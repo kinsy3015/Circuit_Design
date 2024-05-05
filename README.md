@@ -15,7 +15,8 @@
 # POWER MANAGEMENT BASIC
 ![image](https://github.com/kinsy3015/Circuit_Design/assets/62363841/207e6a5f-3585-44aa-96ce-225fa7ec30d0)
 
-
+# RF class C ( LC Resonant Circuit )
+![image](https://github.com/kinsy3015/Circuit_Design/assets/62363841/6357dd70-70c9-4cfd-9ae8-227137c3a532)
 
 # Artwork PCB
 
