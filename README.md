@@ -20,9 +20,10 @@
 
 # Artwork PCB
 
-![image](https://github.com/kinsy3015/Circuit_Design/assets/62363841/f2d2c4b2-0f8d-4185-87b7-18cc36f87710)
+![image](https://github.com/kinsy3015/Circuit_Design/assets/62363841/503dc043-b6db-41c6-950e-bd4edbc61fce)
 
-![image](https://github.com/kinsy3015/Circuit_Design/assets/62363841/b9b73058-e91a-4eb4-8fe7-7b956fb5701c)
+![image](https://github.com/kinsy3015/Circuit_Design/assets/62363841/5baccc61-e09c-4b1b-8aac-5ef3ae44aa6c)
+
 
 # PCB
 ![1](https://github.com/kinsy3015/Circuit_Design/assets/62363841/9a3bde8e-0983-452f-bf54-2e6a78145036)
