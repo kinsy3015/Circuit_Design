@@ -30,7 +30,18 @@
 
 ![2](https://github.com/kinsy3015/Circuit_Design/assets/62363841/56487584-d6c3-4019-8e65-64da38dae2c6)
 
-# PCB Debugging
+# NE555 안정 / 비안정, 스위칭 레귤레이터
 
 ![3](https://github.com/kinsy3015/Circuit_Design/assets/62363841/0f0838de-81e2-4c2a-9965-f6e8f4718386)
+![KakaoTalk_20240624_071846289](https://github.com/kinsy3015/Circuit_Design/assets/62363841/850d56df-4018-4bfb-b066-e514c6be5b3a)
+
+# Comparator를 활용한 전압감지 및 LDO, BJT Current Control 
 ![4](https://github.com/kinsy3015/Circuit_Design/assets/62363841/45d686a3-6ef8-477c-85eb-b58533e9d71b)
+
+# MCU 개발보드 Flash까지 확인
+
+![KakaoTalk_20240624_071848038](https://github.com/kinsy3015/Circuit_Design/assets/62363841/31fe003e-7da9-4791-8d1c-602812d09940)
+![KakaoTalk_20240624_071849625](https://github.com/kinsy3015/Circuit_Design/assets/62363841/bd37dd42-a6bd-4415-8087-cf8a890640e6)
+
+
+
