@@ -38,10 +38,20 @@
 # Comparator를 활용한 전압감지 및 LDO, BJT Current Control 
 ![4](https://github.com/kinsy3015/Circuit_Design/assets/62363841/45d686a3-6ef8-477c-85eb-b58533e9d71b)
 
+# 다이오드 브릿지 +, -
+![KakaoTalk_20240624_072917439](https://github.com/kinsy3015/Circuit_Design/assets/62363841/32ed30c8-cd76-443d-8730-6276a51c5cfc)
+
+# ADC IC, MUX/DEMUX
+![KakaoTalk_20240624_073144339](https://github.com/kinsy3015/Circuit_Design/assets/62363841/38a010a7-7745-484c-93fd-575344aa9d33)
+![KakaoTalk_20240624_073227180](https://github.com/kinsy3015/Circuit_Design/assets/62363841/2ada2ff3-7b30-4344-ba8f-897dda73235a)
+
+
+
 # MCU 개발보드 Flash까지 확인
 
 ![KakaoTalk_20240624_071848038](https://github.com/kinsy3015/Circuit_Design/assets/62363841/31fe003e-7da9-4791-8d1c-602812d09940)
 ![KakaoTalk_20240624_071849625](https://github.com/kinsy3015/Circuit_Design/assets/62363841/bd37dd42-a6bd-4415-8087-cf8a890640e6)
+
 
 
 
