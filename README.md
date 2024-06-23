@@ -30,7 +30,7 @@
 
 ![2](https://github.com/kinsy3015/Circuit_Design/assets/62363841/56487584-d6c3-4019-8e65-64da38dae2c6)
 
-# NE555 안정 / 비안정, 스위칭 레귤레이터, Voltage Divider
+# NE555 안정 / 비안정, 스위칭 레귤레이터, Voltage Divider, Adder(Opamp)
 
 ![3](https://github.com/kinsy3015/Circuit_Design/assets/62363841/0f0838de-81e2-4c2a-9965-f6e8f4718386)
 ![KakaoTalk_20240624_071846289](https://github.com/kinsy3015/Circuit_Design/assets/62363841/850d56df-4018-4bfb-b066-e514c6be5b3a)
@@ -44,6 +44,9 @@
 # ADC IC, MUX/DEMUX
 ![KakaoTalk_20240624_073144339](https://github.com/kinsy3015/Circuit_Design/assets/62363841/38a010a7-7745-484c-93fd-575344aa9d33)
 ![KakaoTalk_20240624_073227180](https://github.com/kinsy3015/Circuit_Design/assets/62363841/2ada2ff3-7b30-4344-ba8f-897dda73235a)
+
+# Simple 휘스톤 브릿지
+![KakaoTalk_20240624_074623943](https://github.com/kinsy3015/Circuit_Design/assets/62363841/4f25487b-b0d6-408c-b3ea-60d901e52bc7)
 
 
 
