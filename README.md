@@ -30,7 +30,7 @@
 
 ![2](https://github.com/kinsy3015/Circuit_Design/assets/62363841/56487584-d6c3-4019-8e65-64da38dae2c6)
 
-# NE555 안정 / 비안정, 스위칭 레귤레이터
+# NE555 안정 / 비안정, 스위칭 레귤레이터, Voltage Divider
 
 ![3](https://github.com/kinsy3015/Circuit_Design/assets/62363841/0f0838de-81e2-4c2a-9965-f6e8f4718386)
 ![KakaoTalk_20240624_071846289](https://github.com/kinsy3015/Circuit_Design/assets/62363841/850d56df-4018-4bfb-b066-e514c6be5b3a)
