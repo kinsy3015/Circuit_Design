@@ -1,7 +1,8 @@
 # Circuit_Design
 
 # IR Data to ADC
-![IR_Opamp_ADC](https://github.com/user-attachments/assets/453969af-8c60-47e0-b72a-1157bfdfc3c2)
+![IR_Opamp_ADC](https://github.com/user-attachments/assets/6b6bdab5-6416-4f22-939e-ee5d79e15891)
+
 
 
 # Oscillator Debugging 
