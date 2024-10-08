@@ -1,16 +1,16 @@
 # Circuit_Design
 
-# Charge Pump With PWM
-![image](https://github.com/kinsy3015/Circuit_Design/assets/62363841/8d548d9b-6e11-45e9-9b5b-ca1ca4eb80d4)
+# IR Data to ADC
+![IR_Opamp_ADC](https://github.com/user-attachments/assets/453969af-8c60-47e0-b72a-1157bfdfc3c2)
+
 
 # Oscillator Debugging 
 ![image](https://github.com/kinsy3015/Circuit_Design/assets/62363841/8b8ab2bb-33aa-40e2-be65-6709c152afee)
 
-# ADC Design
-![image](https://github.com/kinsy3015/Circuit_Design/assets/62363841/e3f48127-8b12-4abd-944d-a2bd6c9da0cb)
+# Wheatstone Current to Voltage
+![wheatstone current to opamp voltage](https://github.com/user-attachments/assets/4406a46e-6d2b-4e09-b866-1533c8ff631f)
 
-# DAC Design
-![image](https://github.com/kinsy3015/Circuit_Design/assets/62363841/c30bc560-375e-437e-be9f-e02d0a5e48a6)
+
 
 # POWER MANAGEMENT BASIC
 ![image](https://github.com/kinsy3015/Circuit_Design/assets/62363841/207e6a5f-3585-44aa-96ce-225fa7ec30d0)
