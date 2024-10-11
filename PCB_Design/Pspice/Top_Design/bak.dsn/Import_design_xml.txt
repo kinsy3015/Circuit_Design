@@ -1,0 +1,5 @@
+1. Merge1 PRJ EXPORT DESIGN XML
+2. Merge2 PRJ EXPORT DESIGN XML
+3. open Merge1 | Merge2 XML
+4. <PAGE></PAGE> + name Change & Ctrl + C/V
+5.Import XML to DSN Convert
