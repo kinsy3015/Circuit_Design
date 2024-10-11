@@ -1,5 +1,9 @@
 # Circuit_Design
 
+# MCU Top Design
+![MCU_Top](https://github.com/user-attachments/assets/82dc024c-608f-423b-b807-9c2612aaeb4b)
+
+
 # IR Data to ADC
 ![IR_Opamp_ADC](https://github.com/user-attachments/assets/6b6bdab5-6416-4f22-939e-ee5d79e15891)
 
@@ -45,9 +49,6 @@
 # ADC IC, MUX/DEMUX
 ![KakaoTalk_20240624_073144339](https://github.com/kinsy3015/Circuit_Design/assets/62363841/38a010a7-7745-484c-93fd-575344aa9d33)
 ![KakaoTalk_20240624_073227180](https://github.com/kinsy3015/Circuit_Design/assets/62363841/2ada2ff3-7b30-4344-ba8f-897dda73235a)
-
-# Simple 휘스톤 브릿지
-![KakaoTalk_20240624_074623943](https://github.com/kinsy3015/Circuit_Design/assets/62363841/4f25487b-b0d6-408c-b3ea-60d901e52bc7)
 
 
 
