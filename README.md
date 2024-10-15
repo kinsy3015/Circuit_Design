@@ -1,7 +1,8 @@
 # Circuit_Design
 
 # MCU Top Design
-![MCU_Top](https://github.com/user-attachments/assets/82dc024c-608f-423b-b807-9c2612aaeb4b)
+![MCU_Top](https://github.com/user-attachments/assets/479c9afb-2728-47e7-88d6-7ecf159ad907)
+
 
 
 # IR Data to ADC
