@@ -1,7 +1,8 @@
 # Circuit_Design
 
 # MCU Top Design
-![MCU_Top](https://github.com/user-attachments/assets/82dc024c-608f-423b-b807-9c2612aaeb4b)
+![MCU_Top](https://github.com/user-attachments/assets/479c9afb-2728-47e7-88d6-7ecf159ad907)
+
 
 
 # IR Data to ADC
@@ -23,17 +24,6 @@
 # RF class C ( LC Resonant Circuit )
 ![image](https://github.com/kinsy3015/Circuit_Design/assets/62363841/6357dd70-70c9-4cfd-9ae8-227137c3a532)
 
-# Artwork PCB
-
-![image](https://github.com/kinsy3015/Circuit_Design/assets/62363841/503dc043-b6db-41c6-950e-bd4edbc61fce)
-
-![image](https://github.com/kinsy3015/Circuit_Design/assets/62363841/5baccc61-e09c-4b1b-8aac-5ef3ae44aa6c)
-
-
-# PCB
-![1](https://github.com/kinsy3015/Circuit_Design/assets/62363841/9a3bde8e-0983-452f-bf54-2e6a78145036)
-
-![2](https://github.com/kinsy3015/Circuit_Design/assets/62363841/56487584-d6c3-4019-8e65-64da38dae2c6)
 
 # NE555 안정 / 비안정, 스위칭 레귤레이터, Voltage Divider, Adder(Opamp)
 
