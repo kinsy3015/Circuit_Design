@@ -29,7 +29,8 @@ module m_mem
     input we,
     input re,
     input [10:0] addr,
-    inout [WORD:0] d_bit
+    inout [WORD - 1:0] d_bit,
+    output reg [WORD - 1 : 0] data_o[PAGE - 1 : 0]
     );
     
     reg [WORD - 1 : 0] mem[PAGE - 1 : 0];

@@ -27,31 +27,42 @@ module m_p_to_s
     input reset,
     input [WORD - 1 : 0] data_in,
     input start,
-    output reg data_o
+    output reg data_o,
+    output reg done
     );
     
     reg [ WORD - 1 : 0 ] reg_data;
-    reg [ 3:0 ]cnt;
+    reg [3 : 0] cnt;
     
     initial begin
         reg_data = 0;
+        data_o = 0;
         cnt = 0;
+        done = 0;
     end
     
     always@(posedge clk or negedge reset) begin
     
         if(reset) begin
-            reg_data = 0;
-            data_o = 0;
+            reg_data <= 0;
+            data_o <= 0;
+            cnt <= 0;
+            done <= 0;
         end
         else begin
-            if(!start && data_in > 0 && cnt == 0) begin
+            if(!start)begin
                 reg_data <= data_in;
+                cnt <= 0;
+                done <= 0;
             end
-            else if(!start && cnt != 8) begin
+            else if(cnt != 8) begin
                 reg_data <= {reg_data[6:0], 1'b0};
                 data_o <= reg_data[7];
                 cnt = cnt + 1;
+            end
+            else if (cnt == 8) begin
+                done <= 1;
+                data_o <= 0;
             end
         end
     end

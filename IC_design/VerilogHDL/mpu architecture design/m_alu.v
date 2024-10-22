@@ -28,7 +28,9 @@ module m_alu
     parameter MUL= 3'b100,
     parameter DIV = 3'b101,
     parameter LSH = 3'b110,
-    parameter RSH = 3'b111)
+    parameter RSH = 3'b111,
+    parameter WORD = 8
+    )
     (
     input wire clk,
     input wire reset,
@@ -37,6 +39,9 @@ module m_alu
     output reg [7:0] acc,
     output reg [7:0] shift
     );
+    
+    reg [ WORD - 1 : 0 ] acc_data;
+    reg [ WORD - 1 : 0 ] i_acc, o_acc;
     
     always @(posedge clk or negedge reset) begin
     
@@ -47,9 +52,13 @@ module m_alu
         else begin
             case(operation) 
                 ADD: begin
-                    acc <= acc + data;
+                    i_acc <= acc;
+                    acc_data = data;
+                    acc <= o_acc;
+                    //acc <= acc + data;
                 end
                 SUB: begin
+                    // TODO subtractor Imple
                     acc <= acc - data;
                 end
                 AND: begin
@@ -78,4 +87,6 @@ module m_alu
         end 
     end
   
+    m_acc acc_m(.clk(clk), .reset(reset), .data(acc_data), .i_acc(i_acc), .o_acc(o_acc));
+    
 endmodule

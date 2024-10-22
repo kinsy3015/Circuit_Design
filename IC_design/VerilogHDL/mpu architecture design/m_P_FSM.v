@@ -19,6 +19,7 @@
 // 
 //////////////////////////////////////////////////////////////////////////////////
 
+//TODO : opencores i2c_master_slave_core/ms_core => protocol FSM analysis & apply
 
 module m_P_FSM
     #(parameter IDLE = 2'b00,

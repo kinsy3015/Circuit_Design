@@ -1,0 +1,164 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File "c:\users\user\desktop\0829\pcb_design\library1.olb"
+        (Type "Schematic Library"))
+      (File "c:\users\d\desktop\pcb_design\library1.olb"
+        (Type "Schematic Library")))
+    (File ".\top_mcupart.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify)
+    (BOM_Scope "0")
+    (BOM_Mode "0")
+    (BOM_Report_File
+       "C:\USERS\D\DESKTOP\PCB_DESIGN\TOP_DESIGN\TOP_MCUPART\TOP_MCUPART.BOM")
+    (BOM_Merge_Include "FALSE")
+    (BOM_Property_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
+    (BOM_Header "Item\tQuantity\tReference\tPart")
+    (BOM_Include_File
+       "C:\USERS\D\DESKTOP\PCB_DESIGN\TOP_DESIGN\TOP_MCUPART\TOP_MCUPART.INC")
+    (BOM_Include_File_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
+    (BOM_One_Part_Per_Line "FALSE")
+    (Open_BOM_in_Excel "TRUE")
+    (BOM_View_Output "FALSE"))
+  (Folder "Outputs"
+    (File ".\top_mcupart.bom"
+      (Type "Report")))
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (5Pinheader
+      (FullPartName "5Pinheader.Normal")
+      (LibraryName "C:\USERS\D\DESKTOP\PCB_DESIGN\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (3WireConnector
+      (FullPartName "3WireConnector.Normal")
+      (LibraryName "C:\USERS\D\DESKTOP\PCB_DESIGN\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (2Pinheader
+      (FullPartName "2Pinheader.Normal")
+      (LibraryName "C:\USERS\D\DESKTOP\PCB_DESIGN\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (AVR_JTAG
+      (FullPartName "AVR_JTAG.Normal")
+      (LibraryName "C:\USERS\D\DESKTOP\PCB_DESIGN\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (15Pinheader
+      (FullPartName "15Pinheader.Normal")
+      (LibraryName "C:\USERS\D\DESKTOP\PCB_DESIGN\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (RS232
+      (FullPartName "RS232.Normal")
+      (LibraryName "C:\USERS\D\DESKTOP\PCB_DESIGN\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (RJ45
+      (FullPartName "RJ45.Normal")
+      (LibraryName "C:\USERS\D\DESKTOP\PCB_DESIGN\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    ("SW PUSHBUTTON-SPDT/SM"
+      (FullPartName "SW PUSHBUTTON-SPDT/SM.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (PORTRIGHT-R
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (PORTLEFT-L
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (PORTRIGHT-L
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (PORTBOTH-L
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (PORTBOTH-R
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (PORTLEFT-R
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (NTC
+      (FullPartName "NTC.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (24C02C
+      (FullPartName "24C02C.Normal")
+      (LibraryName "C:\USERS\USER\DESKTOP\0829\PCB_DESIGN\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (R
+      (FullPartName "R.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB")
+      (DeviceIndex "0"))
+    (VCC
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    ("DIODE ZENER"
+      (FullPartName "DIODE ZENER.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (C
+      (FullPartName "C.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB")
+      (DeviceIndex "0"))
+    (0
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0")))
+  (MPSSessionName "D")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\top_mcupart.dsn")
+      (Path "Design Resources" ".\top_mcupart.dsn" "SCHEMATIC1")
+      (Path "Design Resources" "Library")
+      (Path "Design Resources" "Library"
+         "c:\users\d\desktop\pcb_design\library1.olb")
+      (Path "Outputs")
+      (Select "Design Resources" ".\top_mcupart.dsn" "SCHEMATIC1" "PAGE1")
+      (Select "Design Resources" ".\top_mcupart.dsn" "SCHEMATIC1" "PAGE2")
+      (Select "Design Resources" ".\top_mcupart.dsn" "SCHEMATIC1" "PAGE3")
+      (Select "Design Resources" ".\top_mcupart.dsn" "SCHEMATIC1" "PAGE4"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 320 631 -8 -31 0 200 0 334"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 208 1486 208 668")
+        (Scroll "-130 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\D\DESKTOP\PCB_DESIGN\TOP_DESIGN\TOP_MCUPART\TOP_MCUPART.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE3"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 1278 0 460")
+        (Scroll "-130 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\D\DESKTOP\PCB_DESIGN\TOP_DESIGN\TOP_MCUPART\TOP_MCUPART.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE4"))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 52 1330 52 512")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "2372 748")
+        (Zoom "486"))
+      (Path "C:\USERS\D\DESKTOP\PCB_DESIGN\LIBRARY1.OLB")
+      (Package "5Pinheader")))
+  (LastUsedLibraryBrowseDirectory "C:\Users\D\Desktop\PCB_Design"))
