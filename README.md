@@ -32,10 +32,9 @@
 
 
 
-# MCU 개발보드 Flash까지 확인
+# Gerber
+![image](https://github.com/user-attachments/assets/b80a9f7a-4615-4fe1-b240-87fb10267237)
 
-![KakaoTalk_20240624_071848038](https://github.com/kinsy3015/Circuit_Design/assets/62363841/31fe003e-7da9-4791-8d1c-602812d09940)
-![KakaoTalk_20240624_071849625](https://github.com/kinsy3015/Circuit_Design/assets/62363841/bd37dd42-a6bd-4415-8087-cf8a890640e6)
 
 
 
