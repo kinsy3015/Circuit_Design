@@ -4643,7 +4643,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Oscillator:Oscillator_SMD_TXC_7C-4Pin_5.0x3.2mm_HandSoldering"
+		(property "Footprint" "Crystal:Crystal_SMD_Abracon_ABM3-2Pin_5.0x3.2mm"
 			(at 189.23 78.74 0)
 			(effects
 				(font
